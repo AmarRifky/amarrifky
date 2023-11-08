@@ -1,10 +1,14 @@
- Hi there 👋
-👋 I'm @AmarRifky, a software engineering student.
-🚀 Pursuing my HND in Software Engineering (Pearson BTEC).
-💻 Coding and technology enthusiast.
-🌱 Constantly learning and staying updated on tech trends.
-💞️ Open to collaborations on open-source, web development, and software engineering projects.
-📫 Reach me on GitHub via messages or repository issues.
+-👋 I'm @AmarRifky, a software engineering student.
+
+-🚀 Pursuing my HND in Software Engineering (Pearson BTEC).
+
+-💻 Coding and technology enthusiast.
+
+-🌱 Constantly learning and staying updated on tech trends.
+
+-💞️ Open to collaborations on open-source, web development, and software engineering projects.
+
+-📫 Reach me on GitHub via messages or repository issues.
 
 <!--
 **AmarRifky/amarrifky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
