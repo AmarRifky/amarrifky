@@ -1,6 +1,8 @@
 -👋 I'm @AmarRifky, a software engineering student.
 
--🚀 Pursuing my HND in Software Engineering (Pearson BTEC).
+-🚀 Completed HND in Software Engineering (Pearson BTEC).
+
+-🚀 Persuing Bsc(Hons) Computer Science in Software Engineering at Kingston university London.
 
 -💻 Coding and technology enthusiast.
 
